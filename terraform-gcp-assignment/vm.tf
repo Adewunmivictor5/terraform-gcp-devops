@@ -1,4 +1,3 @@
-hcl
 # VM 1 - Ubuntu in us-east1
 resource "google_compute_instance" "vm_ubuntu" {
   name         = "vm-ubuntu"

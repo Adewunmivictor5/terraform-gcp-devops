@@ -1,4 +1,3 @@
-hcl
 # MySQL Instance
 resource "google_sql_database_instance" "mysql_instance" {
   name             = "mysql-instance-debodinho"

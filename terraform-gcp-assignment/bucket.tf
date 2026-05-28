@@ -1,4 +1,3 @@
-hcl
 # Bucket 1 - US
 resource "google_storage_bucket" "bucket_us" {
   name          = "devops-bucket-us-debodinho"
